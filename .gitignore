@@ -1,0 +1,5 @@
+.idea/
+*.lock
+*.zip
+requirements.txt
+_build/
